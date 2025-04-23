@@ -1,3 +1,21 @@
+# Tech Stack
+
+- Web Framework
+  - [Next.js](https://nextjs.org/) (built on [React](https://react.dev/))
+- CSS Styling
+  - [Tailwind](https://tailwindcss.com/)
+  - [shadcn](https://ui.shadcn.com/)
+- Authentification
+  - [Clerk](https://clerk.com/)
+- Database (Postgres)
+  - [Neon](https://neon.tech/)
+- ORM
+  - [Prisma](https://www.prisma.io/)
+- Image Upload
+  - [UploadThing](https://uploadthing.com/)
+- Deployment
+  - [Vercel](https://vercel.com/)
+
 # GitHub Codespaces ♥️ Next.js
 
 Welcome to your shiny new Codespace running Next.js! We've got everything fired up and running for you to explore Next.js.

@@ -1,3 +1,7 @@
+# Tutorial
+
+- [Next.js Tutorial 2025 - Build a Full Stack Social App with React & Next.js](https://www.youtube.com/watch?v=vUYopHWOURg&t=0h13m40s)
+
 # Tech Stack
 
 - Web Framework

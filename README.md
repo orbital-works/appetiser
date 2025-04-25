@@ -22,8 +22,8 @@
 
 # Useful VS  Code extensions
 
-- ES7+ React/Redux/React-Native snippets (by dsznajder)
-- Tailwind CSS IntelliSense (by Tailwind Labs)
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) (by dsznajder)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) (by Tailwind Labs)
 
 ---
 

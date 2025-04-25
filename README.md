@@ -1,6 +1,6 @@
 # Tutorial
 
-- [Next.js Tutorial 2025 - Build a Full Stack Social App with React & Next.js](https://www.youtube.com/watch?v=vUYopHWOURg&t=0h13m40s)
+- [Next.js Tutorial 2025 - Build a Full Stack Social App with React & Next.js](https://www.youtube.com/watch?v=vUYopHWOURg&t=25m30s)
 
 # Tech Stack
 
@@ -19,6 +19,11 @@
   - [UploadThing](https://uploadthing.com/)
 - Deployment
   - [Vercel](https://vercel.com/)
+
+# Useful VS  Code extensions
+
+- ES7+ React/Redux/React-Native snippets (by dsznajder)
+- Tailwind CSS IntelliSense (by Tailwind Labs)
 
 ---
 
